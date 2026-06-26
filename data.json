@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Kiran",
+    "Age": 26,
+    "Email": "kiran@gmail.com",
+    "Pin": 4578,
+    "AccountNo": "12345",
+    "Balance": 0
+  },
+  {
+    "Name": "Kirann",
+    "Age": 54,
+    "Email": "mail@gmail.com",
+    "Pin": 7548,
+    "AccountNo": "12345",
+    "Balance": 0
+  },
+  {
+    "Name": "Harsh Patel",
+    "Age": 21,
+    "Email": "harsh@gmail.com",
+    "Pin": 9876,
+    "AccountNo": "0r6c*8S",
+    "Balance": 2000
+  },
+  {
+    "Name": "KIRAN GHADASHI",
+    "Age": 26,
+    "Email": "kiran@gmail.com",
+    "Pin": "b9f24b9a4aba14556f8b8d0f1c3a47b569a7c2982cd28d6bc711624b69431fa1",
+    "AccountNo": "H3B*8L2",
+    "Balance": 4000
+  }
+]
