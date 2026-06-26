@@ -48,7 +48,7 @@ bank_management_project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/bank-management-project.git
+git clone https://github.com/Kiran-Ghadashi/Bank-Management-Project.git
 ```
 
 ### 2. Move to Project Folder
@@ -88,7 +88,3 @@ python main.py
 ## 👨‍💻 Developer
 **Kiran Ghadashi**
 
-Aspiring Full Stack Python Developer
-
-LinkedIn: Add your LinkedIn profile here
-GitHub: Add your GitHub profile here
